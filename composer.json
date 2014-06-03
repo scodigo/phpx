@@ -24,7 +24,7 @@
         "phpmailer/phpmailer": "5.2.*",
         "symfony/config": "2.4.*",
         "symfony/translation": "2.4.*",
-        "vlucas/valitron": "dev-master"
+        "vlucas/valitron": "@dev"
     },
     "autoload": {
         "psr-4": {
